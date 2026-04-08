@@ -358,7 +358,7 @@ if __name__ == '__main__':
             self.assertEqual(v1, suma)
     
     unittest.main(verbosity=2)
-    ```
+```
 
 #### Subida del resultado al repositorio GitHub y *pull-request*
 
